@@ -3,8 +3,8 @@ title: ' Practical Machine Learning - Prediction Assignment Writeup'
 author: "Marshall Too"
 date: "Jan 5, 2021"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 *Created with knitr*
 
